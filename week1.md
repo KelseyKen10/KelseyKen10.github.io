@@ -1,5 +1,5 @@
 ---
-layout Post
+layout: Post
 title: Week 1
 by: Kelsey Lynn
 ---
