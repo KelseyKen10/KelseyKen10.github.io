@@ -16,7 +16,7 @@ Today, I completed reading the research papers and took detailed notes. Addition
 **Thursday June 6 2024**
 Today, I completed working on the slides that Dr. Cole instructed me to finish. I also had a meeting with Dr. Cole, my mentor Mr. Zaman, and Professor Pandey. During the meeting, we discussed tasks for the next two weeks and reviewed the research papers. Dr. Cole also demonstrated how to break down the readings into five sections. Additionally, I went over my notes for the two research papers I had completed reading.
 
-**Friday June 8 2024**
+**Friday June 7 2024**
 Today, I worked on my slides for presentation today and started finding more research papers in preparation for next week's meeting with Dr. Cole.
 
 
