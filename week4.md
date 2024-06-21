@@ -1,20 +1,19 @@
 ---
 layout: post
-title: week 3
+title: week 4
 author: Kelsey Lynn
 ---
-**Monday June 10 2024**
-Today, I attended a overleaf seminar, I brushed up on my overleaf skills and learned how to add subsections. 
+**Monday June 17 2024**
+ Today, I built a machine learning model by following YouTube tutorials and using open source code from GitHub. One of the challenges I faced was learning how to install the necessary libraries. 
 
-**Tuesday June 11 2024**
-Today, I read and analyzed research papers, taking notes and categorizing them into five areas: Data, Processing, Machine Learning Model, Classifier, and Control. I also  had a meeting with Dr. Cole, who updated us on additional tasks and learning objectives.
+**Tuesday June 18 2024**
+Today,  I continued implementing my machine learning model and decided to focus on ransomware as the type of cyberattack. I encountered difficulties finding research papers that had the classifiers already listed. Later, I had a meeting with Dr. Cole, during which he discussed the implementation process of our dataset and instructed us to download Cuckoo Sandbox for data implementation.
 
-**Wednesday June 12 2024**
-Absent 
+**Wednesday June 19 2024**
+Holiday
 
-**Thursday June 13 2024**
-Today I Attended the John Hopkins APL lab, where I leanned about Boston Dynamics robot named Spots. I also leanred that neuroscince can be incorporated into AI.
+**Thursday June 20 2024**
+Today, I went on a field trip to NASA, which was an exciting and educational experience
 
-**Friday June 14 2024**
-Today, I worked on my slides for presentation today and started finding more research papers in preparation for next week's meeting with Dr. Cole.
-
+**Friday June 21 2024**
+Today, I spent the day installing Ubuntu and Cuckoo Sandbox, ensuring they were running correctly. Additionally, I worked on this week's video and slides, wrapping up my tasks for the week.
