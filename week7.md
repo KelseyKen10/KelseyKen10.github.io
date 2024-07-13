@@ -6,6 +6,7 @@ author: Kelsey Lynn
 
 **Monday  July 8 2024**
  Today I Continued working on your machine learning model.
+ 
 **Tuesday July 9 2024**
 Today, I Continued work on the machine learning model and met with Dr. Cole to discuss projects and provide updates.
 
