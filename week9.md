@@ -4,6 +4,8 @@ layout: post
 title: week 9
 author: Kelsey Lynn
 ---
+
+
 **Monday July 22 2024**
  Today, I continued working on both the slideshow and the report
  
