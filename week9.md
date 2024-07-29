@@ -1,10 +1,8 @@
-
 ---
 layout: post
 title: week 9
 author: Kelsey Lynn
 ---
-
 
 **Monday July 22 2024**
  Today, I continued working on both the slideshow and the report
@@ -13,7 +11,6 @@ author: Kelsey Lynn
 Today, I made further progress on the presentation and had a brief meeting with Dr. Cole to discuss the next steps.
 
 **Wednesday July 24 2024**
-
 Today was dedicated to continuing the work on the presentation
 
 **Thursday July 25 2024**
